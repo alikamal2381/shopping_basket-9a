@@ -1,4 +1,3 @@
-/* 
 import React, { Component } from "react";
 
 class Filter extends Component {
@@ -11,16 +10,10 @@ class Filter extends Component {
   }
 }
 
-export default Filter; 
-*/
+export default Filter;
 
-<<<<<<< HEAD:src/components/Filter.tsx
 /*
-=======
->>>>>>> 7bfbcfd79658c5af2be25225bedfc0c4006647fc:frontend/src/components/Filter.tsx
 import React, { Component } from "react";
-import { connect } from "react-redux";
-import { filterProducts, sortProducts } from "../actions/productActions";
 
 class Filter extends Component {
   render() {
@@ -80,7 +73,4 @@ export default connect(
     sortProducts,
   }
 )(Filter);
-<<<<<<< HEAD:src/components/Filter.tsx
 */
-=======
->>>>>>> 7bfbcfd79658c5af2be25225bedfc0c4006647fc:frontend/src/components/Filter.tsx
