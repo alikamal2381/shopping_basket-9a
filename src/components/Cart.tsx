@@ -12,7 +12,7 @@ class Cart extends Component {
 
 export default Cart;
 
-/* 
+/*
 import React, { Component } from "react";
 import formatCurrency from "../util";
 import Fade from "react-reveal/Fade";
@@ -209,4 +209,4 @@ export default connect(
   }),
   { removeFromCart, createOrder, clearOrder }
 )(Cart);
- */
+*/
